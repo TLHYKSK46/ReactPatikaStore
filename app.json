@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "PatikaStore",
+    "slug": "PatikaStore",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "PatikaStore"
+}
